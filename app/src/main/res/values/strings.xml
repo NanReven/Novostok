@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Novostok</string>
+    <string name="start">start</string>
+    <string name="track">track</string>
+    <string name="bio">Биография</string>
+
+    <string-array name="traklist">
+        <item>Биография</item>
+        <item>Вишенка</item>
+        <item>Чебурашка</item>
+    </string-array>
+</resources>
